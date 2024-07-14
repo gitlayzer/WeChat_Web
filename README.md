@@ -1,2 +1,14 @@
-# WeChat_Web
-This plugin is only for testing WeChat web version login and is purely open source. Please do not use it for commercial or profit-making purposes.
+# WeChat_Web 浏览器插件
+![WcChat](./icon/WeChat.png)
+
+## ⚠️警告 
+- 本插件仅用于学习交流，请勿用于商业用途，否则后果自负！
+
+## 📖使用说明
+- 下载后解压，将解压后的文件夹放到浏览器插件目录下即可使用。
+- 如果是 chrome 浏览器，将解压后的插件文件夹加载到扩展程序中即可使用。
+- 如果是 firefox 浏览器，将解压后的插件文件夹拖动到扩展程序中即可使用。
+- 打开微信网页版，即可直接扫码登录。
+
+## 📝更新日志
+- 2024.07.15：更新插件名称为 WeChat_Web，并修复部分问题。
